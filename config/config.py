@@ -40,11 +40,11 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","SiestaXMusic")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","SuchiXMusic")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "5505030156").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
@@ -154,10 +154,10 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/a88d2ba7738072032e4a7.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/0bf6908dda6d5c8a116e9.jpg")
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL",
+    "PING_IMG_URL"  "https://telegra.ph/file/577c97054193df9e3ecc9.jpg",
     "assets/Ping.jpeg",
 )
 
