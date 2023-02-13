@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/7f06a0170136896d8bf46.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/0bf6908dda6d5c8a116e9.jpg" align="right" width="200" height="200"/>
 
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TechShreyash/SiestaXMusic">SiestaXMusic</a>. All credits goes to devs of <a href="https://github.com/TechShreyash/SiestaXMusic/graphs/contributors">SiestaXMusic</a>.</h3>
 
@@ -69,7 +69,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/672efa7b8160ed39c6e86.jpg" align="right" width="350" height="700"/>
+<img src="https://telegra.ph/file/131a753bd9ce50feea356.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
@@ -124,8 +124,8 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/AviaxOfficial)
-- [Support Group](https://telegram.me/AviaxSupport)
+- [Updates Channel](https://telegram.me/seqime)
+- [Support Group](https://telegram.me/do_dil_ek_jaan143)
 
 ## 🎗 Project assistance
 
